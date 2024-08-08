@@ -16,5 +16,7 @@ ARL灯塔添加指纹脚本支持两种模式
 ```
 不添加文件路径极为老模式添加，加上文件路径为ARL导出文件添加
 格式为：
+```
 - name: 致远OA
   rule: body="/seeyon/USER-DATA/IMAGES/LOGIN/login.gif"
+```
