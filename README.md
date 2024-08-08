@@ -1,4 +1,4 @@
-# ADD-ARL-finger
+# ADD-ARL-Finger
 ARL灯塔添加指纹脚本支持两种模式
 ```
     usage:
